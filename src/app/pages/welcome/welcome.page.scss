@@ -1,0 +1,11 @@
+ion-footer {
+  ion-toolbar {
+    --background: #000;
+    padding: 10px;
+    ion-button {
+      ion-text {
+        font-size: 0.9rem;
+      }
+    }
+  }
+}
